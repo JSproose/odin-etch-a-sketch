@@ -1,0 +1,10 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hover {
+    background-color: #800d1c;
+}
